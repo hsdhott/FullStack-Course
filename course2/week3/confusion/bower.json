@@ -1,0 +1,28 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "Website for a restaurant",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "confusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Harminder Singh"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.1"
+  }
+}
